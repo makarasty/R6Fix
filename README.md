@@ -1,4 +1,4 @@
-#THIS PROGRAM WORKS ONLY FOR 4-CORE PROCESSORS
+# THIS PROGRAM WORKS ONLY FOR 4-CORE PROCESSORS
 
 # Rainbow Six Siege Fix
 The program does not change the game files, and does not affect the gameplay besides eliminating hangs that occur after 3-4 matches
