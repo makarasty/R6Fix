@@ -6,4 +6,4 @@ The program does not change the game files, and does not affect the gameplay bes
 
 If you encounter the same problem on a processor with more than 4 cores, create [Issues](https://github.com/makarasty/R6Fix/issues), writing there the model of your processor...
 
-example of this error: [Video](https://www.youtube.com/watch?v=HaNKO92eTQ0) - Video taken from the channel https://www.youtube.com/@vista7235
+Example of this error: [Video](https://www.youtube.com/watch?v=HaNKO92eTQ0) - Video taken from the channel https://www.youtube.com/@vista7235
