@@ -1,11 +1,10 @@
 @echo off
 PowerShell "$Process = Get-Process RainbowSix; $Process.ProcessorAffinity=0x0003" > nul
 if %ERRORLEVEL% neq 0 goto Error
-timeout /t 1 /nobreak > nul
 PowerShell "$Process = Get-Process RainbowSix; $Process.ProcessorAffinity=0x000F" > nul
 if %ERRORLEVEL% neq 0 goto Error
 echo All done, the script will close in 10 seconds, good luck!
-timeout /t 10 /nobreak > nul
+timeout /t 3 /nobreak > nul
 exit
 
 :Error
