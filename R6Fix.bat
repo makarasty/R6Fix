@@ -3,7 +3,7 @@ PowerShell "$Process = Get-Process RainbowSix; $Process.ProcessorAffinity=0x0003
 if %ERRORLEVEL% neq 0 goto Error
 PowerShell "$Process = Get-Process RainbowSix; $Process.ProcessorAffinity=0x000F" > nul
 if %ERRORLEVEL% neq 0 goto Error
-echo All done, the script will close in 10 seconds, good luck!
+echo All done, the script will close in any seconds, good luck!
 timeout /t 3 /nobreak > nul
 exit
 
