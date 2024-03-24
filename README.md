@@ -1,8 +1,6 @@
-# ✅ Now supports all CPUs
-
 # Rainbow Six Siege Fix
+## ✅ Now supports all CPUs
 The program does not change the game files, and does not affect the gameplay besides eliminating hangs that occur after **3-4** matches
-
 
 # How do I use the program?
 
