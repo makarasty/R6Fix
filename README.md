@@ -10,5 +10,8 @@ If you notice a hang-up in the game immediately press **WIN + TAB** on the deskt
 
 If you encounter the problem create [**Issues**](https://github.com/makarasty/R6Fix/issues), writing there the model of your processor...
 
+# Download
+https://github.com/makarasty/R6Fix/releases
+
 # Example of this error
 [**Video**](https://www.youtube.com/watch?v=HaNKO92eTQ0) taken from the [**Channel**](https://www.youtube.com/@vista7235)
